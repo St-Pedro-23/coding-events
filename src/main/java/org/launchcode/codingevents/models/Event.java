@@ -1,12 +1,6 @@
 package org.launchcode.codingevents.models;
 
-import java.util.Objects;
-
-/**
- * Created by Chris Bay
- */
 public class Event {
-
     private String name;
     private String description;
 
@@ -33,7 +27,6 @@ public class Event {
 
     @Override
     public String toString() {
-        return name;
+        return  name;
     }
-
 }

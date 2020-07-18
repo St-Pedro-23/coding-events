@@ -1,6 +1,5 @@
 package org.launchcode.codingevents.controllers;
 
-import org.apache.coyote.Request;
 import org.launchcode.codingevents.models.Event;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
